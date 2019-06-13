@@ -98,7 +98,7 @@ def exit ():
 
 sn.listen()
 sn.onkey(go_up, "Up")
-sn.onkey(go_dosn, "Down")
+sn.onkey(go_down, "Down")
 sn.onkey(go_left, "Left")
 sn.onkey(go_right, "Right")
 sn.onkey(exit, "q")
