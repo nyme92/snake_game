@@ -10,7 +10,7 @@ uses already installed Libraries:
 2. random
 3. time
 
-These libraries should be already installed on your computer
+These libraries should be already installed on your computer. If not, easily go to your terminal and type "python". To install each of the three libraries, type "import", followed by the name of the library. 
 
 To run game:
 
