@@ -64,7 +64,7 @@ def go_up():
     if head.direction != "down":
         head.direction = "up"
 
-def go_dosn():
+def go_down():
     if head.direction != "up":
         head.direction = "down"
 
